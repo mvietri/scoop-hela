@@ -30,9 +30,6 @@
                 "url": "https://github.com/macchrome/winchrome/releases/download/v$version-r$matchBuild-Win64/ungoogled-chromium-$version-1_Win64.7z",
                 "extract_dir": "ungoogled-chromium-$version-1_Win64"
             }
-        },
-        "hash": {
-            "url": "https://github.com/macchrome/winchrome/releases/v$version-r$matchBuild-Win64"
         }
     }
 }
