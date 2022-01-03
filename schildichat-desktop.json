@@ -1,12 +1,12 @@
 {
-    "version": "1.9.7-sc.1",
+    "version": "1.9.8-sc.1",
     "description": "SchildiChat Web/Desktop is a fork of Element Web/Desktop.",
     "homepage": "https://github.com/SchildiChat/schildichat-desktop",
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.9.7-sc.1/SchildiChat_win-portable_v1.9.7-sc.1.zip",
-            "hash": "sha1:01b801a06617b2e012c9a38895565a4e278cde1d",
+            "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.9.8-sc.1/SchildiChat_win-portable_v1.9.8-sc.1.zip",
+            "hash": "sha1:6d446075c7c07cc505692f4f31c0044f699bf586",
             "extract_dir": "SchildiChat"
         }
     }, 
